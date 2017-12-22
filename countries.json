@@ -1,22 +1,64 @@
 {
-	"countries": [
-		{
-		"name":"США",
-		"continent":"Америка",
-		"flag":"usa.png",
-		"weatherId":1
-		},
-		{
-		"name":"Уточкия",
-		"continent":"Америка",
-		"flag":"ut.png",
-		"weatherId":2
-		},
-		{
-		"name":"Канада",
-		"continent":"Америка",
-		"flag":"ca.png",
-		"weatherId":3
-		}
-	]
+   "countries":[
+      {
+         "name":"США",
+         "continent":"Америка",
+         "flag":"usa.png",
+         "weatherId":1
+      },
+      {
+         "name":"Уточкия",
+         "continent":"Америка",
+         "flag":"ut.png",
+         "weatherId":2
+      },
+      {
+         "name":"Канада",
+         "continent":"Америка",
+         "flag":"ca.png",
+         "weatherId":3
+      },
+      {
+         "name":"Китай",
+         "continent":"Азия",
+         "flag":"cn.png",
+         "weatherId":4
+      },
+      {
+         "name":"Королевство Норвегия",
+         "continent":"Европа",
+         "flag":"no.png",
+         "weatherId":5
+      },
+      {
+         "name":"Объединенный Арабский Халифат",
+         "continent":"Азия",
+         "flag":"ar.png",
+         "weatherId":6
+      },
+      {
+         "name":"Южноафриканский Союз",
+         "continent":"Африка",
+         "flag":"yu.png",
+         "weatherId":7
+      },
+      {
+         "name":"Османская Республика",
+         "continent":"Азия",
+         "flag":"os.png",
+         "weatherId":8
+      },
+      {
+         "name":"Тюркская Республика",
+         "continent":"Азия",
+         "flag":"tr.png",
+         "weatherId":9
+      },
+      {
+         "name":"Европейская Федерация",
+         "continent":"Европа",
+         "flag":"ef.png",
+         "weatherId":10
+      }
+   ]
 }
