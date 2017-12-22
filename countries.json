@@ -11,5 +11,12 @@
 		"continent":"Америка",
 		"flag":"ut.png",
 		"weatherId":2
-		}]
+		},
+		{
+		"name":"Канада",
+		"continent":"Америка",
+		"flag":"ca.png",
+		"weatherId":3
+		}
+	]
 }
