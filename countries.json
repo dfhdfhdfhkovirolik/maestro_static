@@ -1,0 +1,15 @@
+{
+	"countries": [
+		{
+		"name":"США",
+		"continent":"Америка",
+		"flag":"usa.png",
+		"weatherId":1
+		},
+		{
+		"name":"Уточкия",
+		"continent":"Америка",
+		"flag":"ut.png",
+		"weatherId":2
+		}]
+}
